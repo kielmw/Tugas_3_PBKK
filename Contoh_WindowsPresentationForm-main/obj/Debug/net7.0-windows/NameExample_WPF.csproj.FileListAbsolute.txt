@@ -1,0 +1,42 @@
+D:\OneDrive - Institut Teknologi Sepuluh Nopember\College Stuff\Semester 6\Pemrograman Berbasis Kerangka Kerja (Fajar Baskoro)\Code\NameExample_WPF\bin\Debug\net7.0-windows\NameExample_WPF.exe
+D:\OneDrive - Institut Teknologi Sepuluh Nopember\College Stuff\Semester 6\Pemrograman Berbasis Kerangka Kerja (Fajar Baskoro)\Code\NameExample_WPF\bin\Debug\net7.0-windows\NameExample_WPF.deps.json
+D:\OneDrive - Institut Teknologi Sepuluh Nopember\College Stuff\Semester 6\Pemrograman Berbasis Kerangka Kerja (Fajar Baskoro)\Code\NameExample_WPF\bin\Debug\net7.0-windows\NameExample_WPF.runtimeconfig.json
+D:\OneDrive - Institut Teknologi Sepuluh Nopember\College Stuff\Semester 6\Pemrograman Berbasis Kerangka Kerja (Fajar Baskoro)\Code\NameExample_WPF\bin\Debug\net7.0-windows\NameExample_WPF.dll
+D:\OneDrive - Institut Teknologi Sepuluh Nopember\College Stuff\Semester 6\Pemrograman Berbasis Kerangka Kerja (Fajar Baskoro)\Code\NameExample_WPF\bin\Debug\net7.0-windows\NameExample_WPF.pdb
+D:\OneDrive - Institut Teknologi Sepuluh Nopember\College Stuff\Semester 6\Pemrograman Berbasis Kerangka Kerja (Fajar Baskoro)\Code\NameExample_WPF\obj\Debug\net7.0-windows\NameExample_WPF.csproj.AssemblyReference.cache
+D:\OneDrive - Institut Teknologi Sepuluh Nopember\College Stuff\Semester 6\Pemrograman Berbasis Kerangka Kerja (Fajar Baskoro)\Code\NameExample_WPF\obj\Debug\net7.0-windows\MainWindow.g.cs
+D:\OneDrive - Institut Teknologi Sepuluh Nopember\College Stuff\Semester 6\Pemrograman Berbasis Kerangka Kerja (Fajar Baskoro)\Code\NameExample_WPF\obj\Debug\net7.0-windows\App.g.cs
+D:\OneDrive - Institut Teknologi Sepuluh Nopember\College Stuff\Semester 6\Pemrograman Berbasis Kerangka Kerja (Fajar Baskoro)\Code\NameExample_WPF\obj\Debug\net7.0-windows\NameExample_WPF_MarkupCompile.cache
+D:\OneDrive - Institut Teknologi Sepuluh Nopember\College Stuff\Semester 6\Pemrograman Berbasis Kerangka Kerja (Fajar Baskoro)\Code\NameExample_WPF\obj\Debug\net7.0-windows\NameExample_WPF_MarkupCompile.lref
+D:\OneDrive - Institut Teknologi Sepuluh Nopember\College Stuff\Semester 6\Pemrograman Berbasis Kerangka Kerja (Fajar Baskoro)\Code\NameExample_WPF\obj\Debug\net7.0-windows\MainWindow.baml
+D:\OneDrive - Institut Teknologi Sepuluh Nopember\College Stuff\Semester 6\Pemrograman Berbasis Kerangka Kerja (Fajar Baskoro)\Code\NameExample_WPF\obj\Debug\net7.0-windows\NameExample_WPF.g.resources
+D:\OneDrive - Institut Teknologi Sepuluh Nopember\College Stuff\Semester 6\Pemrograman Berbasis Kerangka Kerja (Fajar Baskoro)\Code\NameExample_WPF\obj\Debug\net7.0-windows\NameExample_WPF.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - Institut Teknologi Sepuluh Nopember\College Stuff\Semester 6\Pemrograman Berbasis Kerangka Kerja (Fajar Baskoro)\Code\NameExample_WPF\obj\Debug\net7.0-windows\NameExample_WPF.AssemblyInfoInputs.cache
+D:\OneDrive - Institut Teknologi Sepuluh Nopember\College Stuff\Semester 6\Pemrograman Berbasis Kerangka Kerja (Fajar Baskoro)\Code\NameExample_WPF\obj\Debug\net7.0-windows\NameExample_WPF.AssemblyInfo.cs
+D:\OneDrive - Institut Teknologi Sepuluh Nopember\College Stuff\Semester 6\Pemrograman Berbasis Kerangka Kerja (Fajar Baskoro)\Code\NameExample_WPF\obj\Debug\net7.0-windows\NameExample_WPF.csproj.CoreCompileInputs.cache
+D:\OneDrive - Institut Teknologi Sepuluh Nopember\College Stuff\Semester 6\Pemrograman Berbasis Kerangka Kerja (Fajar Baskoro)\Code\NameExample_WPF\obj\Debug\net7.0-windows\NameExample_WPF.dll
+D:\OneDrive - Institut Teknologi Sepuluh Nopember\College Stuff\Semester 6\Pemrograman Berbasis Kerangka Kerja (Fajar Baskoro)\Code\NameExample_WPF\obj\Debug\net7.0-windows\refint\NameExample_WPF.dll
+D:\OneDrive - Institut Teknologi Sepuluh Nopember\College Stuff\Semester 6\Pemrograman Berbasis Kerangka Kerja (Fajar Baskoro)\Code\NameExample_WPF\obj\Debug\net7.0-windows\NameExample_WPF.pdb
+D:\OneDrive - Institut Teknologi Sepuluh Nopember\College Stuff\Semester 6\Pemrograman Berbasis Kerangka Kerja (Fajar Baskoro)\Code\NameExample_WPF\obj\Debug\net7.0-windows\NameExample_WPF.genruntimeconfig.cache
+D:\OneDrive - Institut Teknologi Sepuluh Nopember\College Stuff\Semester 6\Pemrograman Berbasis Kerangka Kerja (Fajar Baskoro)\Code\NameExample_WPF\obj\Debug\net7.0-windows\ref\NameExample_WPF.dll
+C:\Users\kielm\Desktop\Contoh_WindowsPresentationForm-main\bin\Debug\net7.0-windows\NameExample_WPF.exe
+C:\Users\kielm\Desktop\Contoh_WindowsPresentationForm-main\bin\Debug\net7.0-windows\NameExample_WPF.deps.json
+C:\Users\kielm\Desktop\Contoh_WindowsPresentationForm-main\bin\Debug\net7.0-windows\NameExample_WPF.runtimeconfig.json
+C:\Users\kielm\Desktop\Contoh_WindowsPresentationForm-main\bin\Debug\net7.0-windows\NameExample_WPF.dll
+C:\Users\kielm\Desktop\Contoh_WindowsPresentationForm-main\bin\Debug\net7.0-windows\NameExample_WPF.pdb
+C:\Users\kielm\Desktop\Contoh_WindowsPresentationForm-main\obj\Debug\net7.0-windows\NameExample_WPF.csproj.AssemblyReference.cache
+C:\Users\kielm\Desktop\Contoh_WindowsPresentationForm-main\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\kielm\Desktop\Contoh_WindowsPresentationForm-main\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\kielm\Desktop\Contoh_WindowsPresentationForm-main\obj\Debug\net7.0-windows\NameExample_WPF_MarkupCompile.cache
+C:\Users\kielm\Desktop\Contoh_WindowsPresentationForm-main\obj\Debug\net7.0-windows\NameExample_WPF_MarkupCompile.lref
+C:\Users\kielm\Desktop\Contoh_WindowsPresentationForm-main\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\kielm\Desktop\Contoh_WindowsPresentationForm-main\obj\Debug\net7.0-windows\NameExample_WPF.g.resources
+C:\Users\kielm\Desktop\Contoh_WindowsPresentationForm-main\obj\Debug\net7.0-windows\NameExample_WPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kielm\Desktop\Contoh_WindowsPresentationForm-main\obj\Debug\net7.0-windows\NameExample_WPF.AssemblyInfoInputs.cache
+C:\Users\kielm\Desktop\Contoh_WindowsPresentationForm-main\obj\Debug\net7.0-windows\NameExample_WPF.AssemblyInfo.cs
+C:\Users\kielm\Desktop\Contoh_WindowsPresentationForm-main\obj\Debug\net7.0-windows\NameExample_WPF.csproj.CoreCompileInputs.cache
+C:\Users\kielm\Desktop\Contoh_WindowsPresentationForm-main\obj\Debug\net7.0-windows\NameExample_WPF.dll
+C:\Users\kielm\Desktop\Contoh_WindowsPresentationForm-main\obj\Debug\net7.0-windows\refint\NameExample_WPF.dll
+C:\Users\kielm\Desktop\Contoh_WindowsPresentationForm-main\obj\Debug\net7.0-windows\NameExample_WPF.pdb
+C:\Users\kielm\Desktop\Contoh_WindowsPresentationForm-main\obj\Debug\net7.0-windows\NameExample_WPF.genruntimeconfig.cache
+C:\Users\kielm\Desktop\Contoh_WindowsPresentationForm-main\obj\Debug\net7.0-windows\ref\NameExample_WPF.dll
